@@ -1,8 +1,8 @@
-# 💳 Credit Scoring - Machine Learning Project
+Credit Scoring - Machine Learning Project
 
 This project predicts credit default using Logistic Regression.
 
-## 📂 Project Structure
+Project Structure
 
 Projet_CreditScoring/
 │
@@ -21,11 +21,9 @@ Projet_CreditScoring/
 ├─ requirements.txt
 └─ README.md
 
-
-## ⚙ Installation
+Installation
 
 Clone repository:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/Projet_CreditScoring.git
+bash
+git clone https://github.com/tokoudidier48-hue/Projet_CreditScoring.git
 cd Projet_CreditScoring
